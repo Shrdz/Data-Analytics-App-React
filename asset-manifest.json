@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shrdz/Data-Analytics-App-React/static/css/main.8a473d4d.chunk.css",
+    "main.js": "/Shrdz/Data-Analytics-App-React/static/js/main.3b52e437.chunk.js",
+    "main.js.map": "/Shrdz/Data-Analytics-App-React/static/js/main.3b52e437.chunk.js.map",
+    "runtime-main.js": "/Shrdz/Data-Analytics-App-React/static/js/runtime-main.6904bc51.js",
+    "runtime-main.js.map": "/Shrdz/Data-Analytics-App-React/static/js/runtime-main.6904bc51.js.map",
+    "static/css/2.95456d05.chunk.css": "/Shrdz/Data-Analytics-App-React/static/css/2.95456d05.chunk.css",
+    "static/js/2.51f182fc.chunk.js": "/Shrdz/Data-Analytics-App-React/static/js/2.51f182fc.chunk.js",
+    "static/js/2.51f182fc.chunk.js.map": "/Shrdz/Data-Analytics-App-React/static/js/2.51f182fc.chunk.js.map",
+    "static/js/3.e6172d38.chunk.js": "/Shrdz/Data-Analytics-App-React/static/js/3.e6172d38.chunk.js",
+    "static/js/3.e6172d38.chunk.js.map": "/Shrdz/Data-Analytics-App-React/static/js/3.e6172d38.chunk.js.map",
+    "index.html": "/Shrdz/Data-Analytics-App-React/index.html",
+    "static/css/2.95456d05.chunk.css.map": "/Shrdz/Data-Analytics-App-React/static/css/2.95456d05.chunk.css.map",
+    "static/css/main.8a473d4d.chunk.css.map": "/Shrdz/Data-Analytics-App-React/static/css/main.8a473d4d.chunk.css.map",
+    "static/js/2.51f182fc.chunk.js.LICENSE.txt": "/Shrdz/Data-Analytics-App-React/static/js/2.51f182fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6904bc51.js",
+    "static/css/2.95456d05.chunk.css",
+    "static/js/2.51f182fc.chunk.js",
+    "static/css/main.8a473d4d.chunk.css",
+    "static/js/main.3b52e437.chunk.js"
+  ]
+}
