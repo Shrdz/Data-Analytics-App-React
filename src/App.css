@@ -1,0 +1,40 @@
+body{
+  background-color:#EFECEC;
+  overflow-x: hidden;
+}
+
+.dashboard{
+  width: 100%;
+  height: 250px;
+  background-color:#2DD7DC;
+  box-shadow: 5px 5px 8px 10px #888888;
+  padding-left: 30px;
+  display: inline-block;
+  text-align: center;
+}
+
+.dashboard>.startdate,.dashboard>.enddate{
+  margin: 0 12px;
+  display: inline-block;
+}
+
+.chart{
+  width:95%;
+  margin-top:90px;
+}
+
+h2{
+  padding:45px 0px;
+  margin:0px!important;
+}
+
+p{
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.reset{
+  border-radius: 4px;
+  color: white;
+  background-color: #f44336;
+}
